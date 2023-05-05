@@ -8,6 +8,8 @@ The purpose of this project is to refactor a website's code to include semantic 
 
 ## Use
 
+Link to deployed website: https://kristengould.github.io/module-1-challenge/
+
 ![image of completed website](assets/images/01-website.jpeg)
 
 Click on the links in the header to navigate to the section you would like to learn more about!
