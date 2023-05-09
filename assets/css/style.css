@@ -89,6 +89,7 @@ main h2 {
     font-size: 36px;
 }
 
+/* styling for benefits aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -123,6 +124,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+.footer-text {
     font-size: 20px;
 }
